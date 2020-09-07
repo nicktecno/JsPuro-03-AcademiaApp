@@ -1,0 +1,35 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://scontent.fssz2-1.fna.fbcdn.net/v/t1.0-9/87389694_2601411103468300_6566925839336734720_o.jpg?_nc_cat=108&_nc_sid=09cbfe&_nc_ohc=MXd5-vL0q58AX--oXCC&_nc_ht=scontent.fssz2-1.fna&oh=d55205b56016b5fee8b5aca71f3cceff&oe=5F1C8E2B",
+      "email": "nick.tecno@hotmail.com",
+      "name": "Nicolas",
+      "birth": 692755200000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "99",
+      "height": "198"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 3,
+      "avatar_url": "https://scontent.fssz2-1.fna.fbcdn.net/v/t1.0-9/87389694_2601411103468300_6566925839336734720_o.jpg?_nc_cat=108&_nc_sid=09cbfe&_nc_ohc=MXd5-vL0q58AX--oXCC&_nc_ht=scontent.fssz2-1.fna&oh=d55205b56016b5fee8b5aca71f3cceff&oe=5F1C8E2B",
+      "name": "Nicolas",
+      "birth": 692755200000,
+      "gender": "M",
+      "services": "Coisas, mais coisass",
+      "created_at": 1593111557728
+    },
+    {
+      "id": 7,
+      "avatar_url": "https://images.unsplash.com/photo-1566163629743-a418a81c8fe0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60",
+      "name": "Simba",
+      "birth": 585014400000,
+      "gender": "M",
+      "services": "musculação, dormir",
+      "created_at": 1593271032920
+    }
+  ]
+}
